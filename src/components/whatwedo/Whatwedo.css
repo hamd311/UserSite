@@ -1,0 +1,18 @@
+.what-wedo-text {
+  font-size: 30px;
+  color: rgb(78, 77, 77);
+  /* text-transform: uppercase; */
+}
+.whatWeDo-item {
+  margin-top: 10px;
+  font-family: Poppins;
+  font-size: 25px;
+  font-weight: 500;
+}
+.whatWeDo-subtext {
+  font-size: 14px;
+  font-family: Poppins;
+}
+.we-do {
+  color: #ff6600;
+}

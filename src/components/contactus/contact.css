@@ -1,0 +1,49 @@
+.contact-no {
+  margin-top: -3px !important;
+}
+.contacus-text {
+  font-size: 35px;
+  font-family: Poppins;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.dropLine-text {
+  font-size: 35px;
+  font-family: Poppins;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.form-input {
+  background-color: rgba(0, 0, 0, 0.15);
+  height: 70px;
+}
+.message-textarea {
+  background-color: rgba(0, 0, 0, 0.15);
+}
+.btn-form-submit {
+  background-color: black;
+  color: white;
+  height: 50px;
+  width: 100px;
+}
+.callus-text {
+  color: #ff6600;
+  text-transform: capitalize;
+}
+.find-us {
+  background-color: #ff6600;
+  display: inline-block;
+}
+.find-us {
+  margin-left: -120px;
+  margin-top: 120px;
+  padding-left: 91px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.message-textarea {
+  width: 100%;
+  border: 0;
+}

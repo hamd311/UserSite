@@ -1,0 +1,23 @@
+.nav-style {
+  background-color: #212121;
+}
+.get-Quotes {
+  background-color: #ff6600;
+  color: white;
+  font-weight: bold;
+
+  /* font-family: Poppins; */
+}
+.second-navbar {
+  font-size: 15px;
+  font-family: Poppins;
+}
+
+@media (max-width: 576px) {
+  .right-navbar-container {
+    display: none !important;
+  }
+  .zakir-designs-logo {
+    width: 100%;
+  }
+}

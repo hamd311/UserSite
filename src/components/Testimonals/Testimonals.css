@@ -1,0 +1,20 @@
+.testimonals-container {
+  background-color: #ff6600;
+}
+.test-container {
+  background-color: blanchedalmond;
+}
+.user-name-title {
+  margin-left: -100px;
+}
+.whatCutomer-says {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+@media (max-width: 576px) {
+  .customer-testimonals {
+    width: 100% !important;
+  }
+}
